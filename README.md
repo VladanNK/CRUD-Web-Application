@@ -1,0 +1,1 @@
+An application that performs basic CRUD operations. It is necessary to start the server first and enter some data, since H2 was used for the database, which is emptied at each new start and data needs to be added again. After the server starts, it is necessary to start the frontend segment written in Vue.
